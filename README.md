@@ -3,7 +3,7 @@ The motivation behind this project is to be able to find Wikipedia Articles in a
 In order to perform a match, A natural language processing technique, latent semantic analysis will be used. The system will be portable and built on a series of Docker containers:- Python Container, MongoDB container, data container.
 
 # Architecture
-![alt text](https://github.com/devpopat96/Latent-Semantic-Analysis/blob/master/system.png.png)
+![alt text](https://github.com/devpopat96/Latent-Semantic-Analysis/blob/master/system.png)
 
 # Command-line arguments used
 ./bin/categories #CATEGORY# -> This will display a category and its associated sub-images
